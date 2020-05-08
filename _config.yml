@@ -95,7 +95,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Asit7LQAAAAJ"
   email            : niekerk@hhu.de
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://gitlab.cs.uni-duesseldorf.de/niekerk"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,13 +103,12 @@ author:
   facebook         :
   foursquare       :
   github           : "carelvniekerk"
-  gitlab           : "https://gitlab.cs.uni-duesseldorf.de/niekerk"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/carel-van-niekerk-4718678a/"
+  linkedin         : "carel-van-niekerk-4718678a"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
