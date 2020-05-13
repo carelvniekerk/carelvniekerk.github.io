@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/up.png =50x) 2016-2018: Teaching Assistant
+<img src="https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/up.png" alt="alt text" height="50"> 2016-2018: Teaching Assistant
   * University of Pretoria, Pretoria, South Africa
   * Tutorial and Practical Lectures
   * Grading of Papers and Assignments
