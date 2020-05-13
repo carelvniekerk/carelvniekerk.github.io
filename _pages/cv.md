@@ -18,19 +18,19 @@ Education
 
 Work experience
 ======
-<img src="/images/up.png" alt="alt text" hspace="50"> 2016-2018: Teaching Assistant
+<img src="/images/up.png" alt="alt text" height="50" >  2016-2018: Teaching Assistant
   * University of Pretoria, Pretoria, South Africa
   * Tutorial and Practical Lectures
   * Grading of Papers and Assignments
   * Modules: Distribution Theory, Stochastic Processes, Actuarial Statistics\
  
-<img src="/images/nga.png" alt="alt text" hspace="50"> 2018-2019: AI Consultant
+<img src="/images/nga.png" alt="alt text" height="50" >  2018-2019: AI Consultant
   * NGA Risksecure, Pretoria, South Africa
   * Consultation on AI solutions
   * Implementation of AI solutions
   * Projects: Natural Language Processing for Risk Security, Image Classification for plant disease detection
   
-<img src="/images/hhu.jpg" alt="alt text" hspace="50"> 2019-present: Rsearch Scientist
+<img src="/images/hhu.jpg" alt="alt text" height="50" >  2019-present: Rsearch Scientist
   * Heinrich Heine University, Düsseldorf, Germany
   * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
   
