@@ -22,13 +22,15 @@ Work experience
   * University of Pretoria, Pretoria, South Africa
   * Tutorial and Practical Lectures
   * Grading of Papers and Assignments
-  * Modules: Distribution Theory, Stochastic Processes, Actuarial Statistics
-![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/nga.png =50x) 2018-2019: AI Consultant
+  * Modules: Distribution Theory, Stochastic Processes, Actuarial Statistics\
+ 
+<img src="https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/nga.png" alt="alt text" height="50"> 2018-2019: AI Consultant
   * NGA Risksecure, Pretoria, South Africa
   * Consultation on AI solutions
   * Implementation of AI solutions
   * Projects: Natural Language Processing for Risk Security, Image Classification for plant disease detection
-![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/hhu.jpg =50x) 2019-present: Rsearch Scientist
+  
+<img src="https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/hhu.jpg" alt="alt text" height="50"> 2019-present: Rsearch Scientist
   * Heinrich Heine University, Düsseldorf, Germany
   * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
   
