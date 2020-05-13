@@ -18,17 +18,17 @@ Education
 
 Work experience
 ======
-* 2016-2018: Teaching Assistant
+![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/up.png) 2016-2018: Teaching Assistant
   * University of Pretoria, Pretoria, South Africa
   * Tutorial and Practical Lectures
   * Grading of Papers and Assignments
   * Modules: Distribution Theory, Stochastic Processes, Actuarial Statistics
-* 2018-2019: AI Consultant
+![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/nga.png) 2018-2019: AI Consultant
   * NGA Risksecure, Pretoria, South Africa
   * Consultation on AI solutions
   * Implementation of AI solutions
   * Projects: Natural Language Processing for Risk Security, Image Classification for plant disease detection
-* 2019-present: Rsearch Scientist
+![alt text](https://github.com/carelvniekerk/carelvniekerk.github.io/blob/master/images/hhu.png) 2019-present: Rsearch Scientist
   * Heinrich Heine University, Düsseldorf, Germany
   * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
   
