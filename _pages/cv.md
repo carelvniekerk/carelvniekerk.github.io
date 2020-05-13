@@ -18,6 +18,7 @@ Education
 
 Work experience
 ======
+
 <img src="/images/up.png" alt="alt text" height="50" >  2016-2018: Teaching Assistant
   * University of Pretoria, Pretoria, South Africa
   * Tutorial and Practical Lectures
