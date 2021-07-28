@@ -9,6 +9,7 @@ author_profile: true
 
 Past Events
 ======
+* YRRSDS 2021, 27-28 July 2021, Virtually
 * EMNLP 2020, 16-20 November 2020, Virtually
 * ACL 2020, 6-8 July 2020, Virtually
 * SigDial 2020, 1-3 July 2020, Virtually
