@@ -31,13 +31,14 @@ Work experience
   * Implementation of AI solutions
   * Projects: Natural Language Processing for Risk Security, Image Classification for plant disease detection
   
-<img src="/images/hhu.jpg" alt="alt text" height="50" >  2019-present: Research scientist
+<img src="/images/hhu.jpg" alt="alt text" height="50" >  2019-present: Research Scientist
   * Heinrich Heine University, Düsseldorf, Germany
   * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
   
 Skills
 ======
 * Python
+* Bash
 * C++
 * Deep Learning in Pytorch and Tensorflow
 * Google Cloud Platform:
