@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Carel van Niekerk"
 title_separator          : "-"
 name                     : &name "Carel van Niekerk"
-description              : &description "Research Scientist at Heinrich-Heine-Universität, Düsseldorf"
+description              : &description "Doctoral Candidate at Heinrich-Heine-Universität, Düsseldorf"
 url                      : https://carelvniekerk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carelvniekerk.github.io"
@@ -61,7 +61,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : carelvanniekerk
 facebook:
   username               :
   app_id                 :
@@ -88,7 +88,7 @@ analytics:
 author:
   name             : "Carel van Niekerk"
   avatar           : "profile.png"
-  bio              : "Research Scientist and Doctorate Student"
+  bio              : "Doctorate Candidate and Research Scientist"
   location         : "Düsseldorf, Germany"
   employer         :
   pubmed           : 
@@ -115,7 +115,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : carelvanniekerk
   vine             :
   weibo            :
   xing             :
