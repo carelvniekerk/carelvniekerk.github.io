@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+Upcoming Events
+======
+* EMNLP 2021, 7-11 November 2021, Punta Cana, Dominican Republic / Virtually
+
 Past Events
 ======
 * YRRSDS 2021, 27-28 July 2021, Virtually
