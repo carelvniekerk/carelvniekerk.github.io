@@ -17,7 +17,6 @@ redirect_from:
 
 Awards
 ======
-
 * Best Paper Award SIGDial, 2020
 * Best BSc (Hons) student in Mathematical Statistics, University of Pretoria, Pretoria, South Africa, 2016
 * Deans List Top 20 Student in Natural Sciences Faculty, University of Pretoria, Pretoria, South Africa, 2015
