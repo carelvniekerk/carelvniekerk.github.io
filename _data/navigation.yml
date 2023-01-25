@@ -23,8 +23,14 @@ main:
   - title: "Events"
     url: /events/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Skills"
+    url: /skills/
     
 #   - title: "Guide"
 #     url: /markdown/
