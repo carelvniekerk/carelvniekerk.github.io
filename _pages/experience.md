@@ -58,10 +58,10 @@ Teaching
   {% endfor %}</ul>
   
 * Supervisor of the Dialogue Reward Estimation Project within the Dialogue Systems and Machine Learning group, 2021-Present
-* Member of the ConvLab 3 toolkit development team | 2020 - Present
+* Member of the ConvLab 3 toolkit development team, 2020 - Present
 * Co-organiser of the Young Researchers’ Roundtable on Spoken Dialogue Systems (YRRSDS) 2022
-* Lead of the PyDial Python conversion project | 2019
-* Co-supervisior of BSc (Hons) Student at the University of the Pretoria | 2017
+* Lead of the PyDial Python conversion project, 2019
+* Co-supervisior of BSc (Hons) Student at the University of the Pretoria, 2017
 
 Service and leadership
 ======
