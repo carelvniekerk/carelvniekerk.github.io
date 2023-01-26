@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-======
 * Ph.D in Computer Science, Heinrich Heine University, Düsseldorf, 2019-Present
 * M.Sc. in Mathematical Statistics, University of Pretoria, 2017-2018
 * B.Sc.(Hons) in Mathematical Statistics, University of Pretoria, 2016
