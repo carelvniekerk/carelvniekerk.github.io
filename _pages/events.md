@@ -9,7 +9,7 @@ author_profile: true
 
 Upcoming Events
 ======
-
+* EMNLP 2023, 6-10 December 2023, Singapore
 
 Past Events
 ======
