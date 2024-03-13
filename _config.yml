@@ -48,12 +48,8 @@ staticman:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-<<<<<<< HEAD
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
-=======
-  path: # blank (default) uses feed.xml
->>>>>>> 490e1fe (Fix bug in login functionality)
 
 
 # SEO Related
@@ -139,6 +135,7 @@ include:
 - files
 exclude:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -164,6 +161,9 @@ exclude:
   - tmp
   - vendor
 =======
+=======
+- assets
+>>>>>>> 1bd049f (Exclude assets directory in _config.yml)
 - "*.sublime-project"
 - "*.sublime-workspace"
 - .asset-cache
