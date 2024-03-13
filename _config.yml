@@ -77,17 +77,11 @@ social:
 
 # Analytics
 analytics:
-<<<<<<< HEAD
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
-=======
-  provider: "google-universal" # false (default), "google", "google-universal", "custom"
->>>>>>> 490e1fe (Fix bug in login functionality)
   google:
     tracking_id:
 
 
-<<<<<<< HEAD
-=======
 # Site Author
 author:
   name: "Carel van Niekerk"
@@ -127,13 +121,13 @@ author:
   wikipedia:
 
 
->>>>>>> b724f64 (Update _config.yml)
 # Reading Files
 include:
 - .htaccess
 - _pages
 - files
 exclude:
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   - "*.sublime-project"
@@ -164,6 +158,8 @@ exclude:
 =======
 - assets
 >>>>>>> 1bd049f (Exclude assets directory in _config.yml)
+=======
+>>>>>>> 57ce571 (Update color scheme in _config.yml and _variables.scss)
 - "*.sublime-project"
 - "*.sublime-workspace"
 - .asset-cache
