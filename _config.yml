@@ -22,114 +22,123 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname:
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields: ['name', 'email', 'url', 'message']
+  branch: "gh-pages" # "master", "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email: "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+<<<<<<< HEAD
   hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+=======
+  path: # blank (default) uses feed.xml
+>>>>>>> 490e1fe (Fix bug in login functionality)
 
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification:
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 
 # Social Sharing
 twitter:
-  username               : carelvanniekerk
+  username: carelvanniekerk
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
 
 # Analytics
 analytics:
+<<<<<<< HEAD
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+=======
+  provider: "google-universal" # false (default), "google", "google-universal", "custom"
+>>>>>>> 490e1fe (Fix bug in login functionality)
   google:
-    tracking_id          :
+    tracking_id:
 
 
 <<<<<<< HEAD
 =======
 # Site Author
 author:
-  name             : "Carel van Niekerk"
-  avatar           : "profile.png"
-  bio              : "Doctorate Candidate and Research Scientist"
-  location         : "Düsseldorf, Germany"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Asit7LQAAAAJ"
-  email            : niekerk@hhu.de
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://gitlab.cs.uni-duesseldorf.de/niekerk"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "carelvniekerk"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "carel-van-niekerk-4718678a"
-  orcid            : #"http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : carelvanniekerk
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Carel van Niekerk"
+  avatar: "profile.png"
+  bio: "Doctorate Candidate and Research Scientist"
+  location: "Düsseldorf, Germany"
+  employer:
+  pubmed:
+  googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=Asit7LQAAAAJ"
+  email: niekerk@hhu.de
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  uri: "https://gitlab.cs.uni-duesseldorf.de/niekerk"
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "carelvniekerk"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "carel-van-niekerk-4718678a"
+  orcid: #"http://orcid.org/yourorcidurl"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter: carelvanniekerk
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 
 >>>>>>> b724f64 (Update _config.yml)
 # Reading Files
 include:
-  - .htaccess
-  - _pages
-  - files
+- .htaccess
+- _pages
+- files
 exclude:
+<<<<<<< HEAD
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
@@ -154,9 +163,34 @@ exclude:
   - README
   - tmp
   - vendor
+=======
+- "*.sublime-project"
+- "*.sublime-workspace"
+- .asset-cache
+- .bundle
+- .jekyll-assets-cache
+- .sass-cache
+- CHANGELOG
+- Capfile
+- Gemfile
+- Gruntfile.js
+- LICENSE
+- README
+- Rakefile
+- assets/js/_main.js
+- assets/js/plugins
+- assets/js/vendor
+- config
+- gulpfile.js
+- log
+- node_modules
+- package.json
+- tmp
+- vendor
+>>>>>>> 490e1fe (Fix bug in login functionality)
 keep_files:
-  - .git
-  - .svn
+- .git
+- .svn
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
@@ -199,59 +233,59 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+# _posts
+- scope:
+    path: ""
+    type: posts
+  values:
+    layout: single
+    author_profile: true
+    read_time: true
+    comments: true
+    share: true
+    related: true
+# _pages
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true
+# _teaching
+- scope:
+    path: ""
+    type: teaching
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+# _publications
+- scope:
+    path: ""
+    type: publications
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comments: true
+# _portfolio
+- scope:
+    path: ""
+    type: portfolio
+  values:
+    layout: single
+    author_profile: true
+    share: true
+    comment: true
+# _talks
+- scope:
+    path: ""
+    type: talks
+  values:
+    layout: talk
+    author_profile: true
+    share: true
 
 
 # Sass/SCSS
@@ -269,21 +303,21 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jekyll-redirect-from
+- jekyll-remote-theme
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-remote-theme
-    remote_theme : "mmistakes/minimal-mistakes"
-    minimal_mistakes_skin : "dark"
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-gist
+- jekyll-feed
+- jemoji
 
 
 # Archives
