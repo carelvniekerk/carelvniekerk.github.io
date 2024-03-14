@@ -13,7 +13,7 @@ redirect_from:
 Work experience
 ======
 
-<img src="/images/hhu.jpg" alt="alt text" height="50" >  2019-present: Research Scientist
+<img src="/images/hhu.png" alt="alt text" height="50" >  2019-present: Research Scientist
   * Heinrich Heine University, Düsseldorf, Germany
   * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
 
