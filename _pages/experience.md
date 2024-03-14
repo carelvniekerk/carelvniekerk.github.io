@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Experience"
+sitemap: false
 permalink: /experience/
 author_profile: true
 redirect_from:

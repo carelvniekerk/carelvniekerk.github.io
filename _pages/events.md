@@ -2,6 +2,7 @@
 layout: archive
 title: "Events"
 permalink: /events/
+sitemap: false
 author_profile: true
 ---
 
