@@ -2,6 +2,7 @@
 layout: archive
 title: "Skills"
 permalink: /skills/
+sitemap: false
 author_profile: true
 redirect_from:
   - /resume

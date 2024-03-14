@@ -2,6 +2,7 @@
 layout: archive
 title: "Education"
 permalink: /education/
+sitemap: false
 author_profile: true
 redirect_from:
   - /resume
