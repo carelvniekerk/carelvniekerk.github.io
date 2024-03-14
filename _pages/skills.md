@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 * Deep Learning
 * Natural Language Processing
 * Large Language Models
 * Python
+* Java Script
 * Bash
 * C++
 * Deep Learning in Pytorch and Tensorflow
@@ -27,4 +29,3 @@ Languages
 * English (Native)
 * Afrikaans (Native)
 * German (Intermediate)
-

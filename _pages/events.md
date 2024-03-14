@@ -10,10 +10,12 @@ author_profile: true
 
 Upcoming Events
 ======
+
 * PhD Defense, 18 March 2022, Heinrich Heine University Düsseldorf, Germany
 
 Past Events
 ======
+
 * EMNLP 2023, 6-10 December 2023, Singapore
 * ELLIS MLSS 2022, 11-15 July 2022, Cambridge, United Kingdom
 * EMNLP 2021, 7-11 November 2021, Punta Cana, Dominican Republic / Virtually
