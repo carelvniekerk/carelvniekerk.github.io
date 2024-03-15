@@ -13,7 +13,9 @@ redirect_from:
 Work experience
 ======
 
-<img src="/images/hhu.png" alt="alt text" height="50" >  2019-2024: Doctoral Candidate and Research Scientist
+<a href="https://www.hhu.de/">
+  <img src="/images/hhu.png" alt="alt text" height="50" width="94">
+</a>  2019-2024: Doctoral Candidate and Research Scientist
 
 * Heinrich Heine University, Düsseldorf, Germany
 * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
