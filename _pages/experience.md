@@ -14,21 +14,25 @@ Work experience
 ======
 
 <a href="https://www.hhu.de/">
-  <img src="/images/hhu.png" alt="alt text" height="50" width="94">
+  <img src="/images/hhu.png" alt="alt text" height="40" width="75">
 </a>  2019-2024: Doctoral Candidate and Research Scientist
 
 * Heinrich Heine University, Düsseldorf, Germany
 * Doctoral Candidate in the Dialogue Systems and Machine Learning Group
 * Lecturing: Implementing Transformer Models Practical Series
 
-<img src="/images/nga.png" alt="alt text" height="50" >  2018-2019: AI Consultant
+<a href="https://nga.co.za/">
+  <img src="/images/nga.png" alt="alt text" height="40" width="40">
+</a>  2018-2019: AI Consultant
 
 * NGA Risksecure, Pretoria, South Africa
 * Consultation on AI solutions
 * Implementation of AI solutions
 * Projects: Natural Language Processing for Risk Security, Image Classification for plant disease detection
 
-<img src="/images/up.png" alt="alt text" height="50" >  2016-2018: Teaching assistant
+<a href="https://www.up.ac.za/">
+  <img src="/images/up.png" alt="alt text" height="40" width="25">
+</a>  2016-2018: Teaching assistant
 
 * University of Pretoria, Pretoria, South Africa
 * Tutorial and Practical Lectures
