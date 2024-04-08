@@ -1,10 +1,10 @@
 ---
 title: "Learning with an Open Horizon in Ever-Changing Dialogue Circumstances"
 collection: publications
-permalink: /publication/2023-open-horizon
+permalink: /publication/2024-open-horizon
 excerpt: 'Task-oriented dialogue systems aid users in achieving their goals for specific tasks, e.g., booking a hotel room or managing a schedule. The systems experience various changes during their lifetime such as new tasks emerging or varying user behaviours and task requests, which requires the ability of continually learning throughout their lifetime. Current dialogue systems either perform no continual learning or do it in an unrealistic way that mostly focuses on avoiding catastrophic forgetting. Unlike current dialogue systems, humans learn in such a way that it benefits their present and future, while adapting their behaviour to current circumstances. In order to equip dialogue systems with the capability of learning for the future, we propose the usage of lifetime return in the reinforcement learning (RL) objective of dialogue policies. Moreover, we enable dynamic adaptation of hyperparameters of the underlying RL algorithm used for training the dialogue policy by employing meta-gradient reinforcement learning. We furthermore propose a more general and challenging continual learning environment in order to approximate how dialogue systems can learn in the ever-changing real world. Extensive experiments demonstrate that lifetime return and meta-gradient RL lead to more robust and improved results in continuously changing circumstances. The results warrant further development of dialogue systems that evolve throughout their lifetime.'
 authors: 'Christian Geishauser, Carel van Niekerk, Nurul Lubis, Hsien-chin Lin, Michael Heck, Shutong Feng, Benjamin Ruppik, Renato Vukovic, Milica Gašić'
-date: 08-04-2023
+date: 08-04-2024
 venue: 'IEEE/ACM Transactions on Audio, Speech, and Language Processing'
 paperurl: 'https://ieeexplore.ieee.org/document/10491378'
 ---
