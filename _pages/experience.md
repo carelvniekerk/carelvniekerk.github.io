@@ -13,7 +13,6 @@ redirect_from:
 Work experience
 ======
 
-Postdoctoral Researcher
 <a href="https://www.hhu.de/">
   <img src="/images/hhu.png" alt="alt text" height="40" width="75">
 </a>  2024-Present: Postdoctoral Researcher
