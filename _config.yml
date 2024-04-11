@@ -86,7 +86,7 @@ analytics:
 author:
   name: "Carel van Niekerk"
   avatar: "profile.png"
-  bio: "Doctorate Candidate and Research Scientist"
+  bio: "Postdoctoral Researcher at Heinrich-Heine-Universität, Düsseldorf"
   location: "Düsseldorf, Germany"
   employer:
   pubmed:
@@ -107,7 +107,7 @@ author:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
   linkedin: "carel-van-niekerk-4718678a"
-  orcid: #"http://orcid.org/yourorcidurl"
+  orcid: "http://orcid.org/0000-0002-4551-7447"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
