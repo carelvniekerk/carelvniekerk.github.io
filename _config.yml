@@ -7,20 +7,20 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Carel van Niekerk"
-title_separator          : "-"
-name                     : &name "Carel van Niekerk"
-description              : &description "Doctoral Candidate at Heinrich-Heine-Universität, Düsseldorf"
-url                      : https://carelvniekerk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "carelvniekerk.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+locale: "en-US"
+title: "Carel van Niekerk"
+title_separator: "-"
+name: &name "Carel van Niekerk"
+description: &description "Doctoral Candidate at Heinrich-Heine-Universität, Düsseldorf"
+url: https://carelvniekerk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "carelvniekerk.github.io"
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs: false # true, false (default)
+words_per_minute: 160
+future: true
+read_more: "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
   provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -48,8 +48,8 @@ staticman:
       options:
         format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  hide: false # change to true to hide the RSS feed in the footer
+  path: # blank (default) uses feed.xml
 
 
 # SEO Related
@@ -77,7 +77,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id:
 
@@ -127,39 +127,31 @@ include:
 - _pages
 - files
 exclude:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .github
-  - .jekyll-assets-cache
-  - .sass-cache
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - CHANGELOG
-  - Capfile
-  - config
-  - Gemfile
-  - Gruntfile.js
-  - gulpfile.js
-  - LICENSE
-  - log
-  - node_modules
-  - package.json*
-  - Rakefile
-  - README
-  - tmp
-  - vendor
-=======
-=======
+- "*.sublime-project"
+- "*.sublime-workspace"
+- .asset-cache
+- .bundle
+- .github
+- .jekyll-assets-cache
+- .sass-cache
+- assets/js/_main.js
+- assets/js/plugins
+- assets/js/vendor
+- CHANGELOG
+- Capfile
+- config
+- Gemfile
+- Gruntfile.js
+- gulpfile.js
+- LICENSE
+- log
+- node_modules
+- package.json*
+- Rakefile
+- README
+- tmp
+- vendor
 - assets
->>>>>>> 1bd049f (Exclude assets directory in _config.yml)
-=======
->>>>>>> 57ce571 (Update color scheme in _config.yml and _variables.scss)
 - "*.sublime-project"
 - "*.sublime-workspace"
 - .asset-cache
@@ -183,7 +175,6 @@ exclude:
 - package.json
 - tmp
 - vendor
->>>>>>> 490e1fe (Fix bug in login functionality)
 keep_files:
 - .git
 - .svn
