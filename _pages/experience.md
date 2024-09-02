@@ -50,34 +50,7 @@ Work experience
 
 Professional Activities
 ======
-* Python
-* Bash
-* C++
-* Deep Learning in Pytorch and Tensorflow
-* Google Cloud Platform:
-  * Compute instances
-  * AI Platform
-  * Storage Buckets
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-* Supervisor of the Dialogue Reward Estimation Project within the Dialogue Systems and Machine Learning group, 2021-Present
 * Member of the ConvLab 3 toolkit development team, 2020 - Present
 * Organizer of the Dialogue Systems and Machine Learning Seminar Series, 2023 - Present
 * Reviewer for ACL, EMNLP, NeurIPS, ICLR, AAAI, IJCAI, SIGDIAL, and others, 2020 - Present

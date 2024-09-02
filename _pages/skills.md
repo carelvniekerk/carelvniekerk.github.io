@@ -10,15 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-* Using Generative AI tools such as ChatGPT and Copilot to improve workflows, both via the API and UI.
 * Deep Learning
 * Natural Language Processing
 * Large Language Models
 * Python
-* JavaScript
+* Java Script
 * Bash
 * C++
-* Deep Learning in PyTorch and TensorFlow
+* Deep Learning in Pytorch and Tensorflow
 * Google Cloud Platform:
   * Compute instances
   * AI Platform
