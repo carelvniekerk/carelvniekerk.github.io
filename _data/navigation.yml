@@ -6,9 +6,6 @@ main:
 #   - title: "Talks"
 #     url: /talks/    
 
-#   - title: "Teaching"
-#     url: /teaching/    
-    
 #   - title: "Portfolio"
 #     url: /portfolio/
         
@@ -23,6 +20,9 @@ main:
 
   - title: "Experience"
     url: /experience/
+
+  - title: "Teaching"
+    url: /teaching/    
 
   - title: "Skills"
     url: /skills/
