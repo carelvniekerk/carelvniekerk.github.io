@@ -10,18 +10,44 @@ redirect_from:
 
 {% include base_path %}
 
-* Deep Learning
-* Natural Language Processing
-* Large Language Models
-* Python
-* Java Script
+Programming
+======
+
+* Python(Proficient)
+* JavaScript(Intermediate)
+* C++(Basic)
+  
+Machine Learning
+======
+* PyTorch
+* Huggingface (Transformers, Datasets, TRL)
+* Parallel and Mixed Precision Training using CUDA
+* Accelerate
+
+Configuration & Management
+======
+* Hydra/Hydra-zen configuration management
+* Astral UV - Python version and dependency management
+* Poetry - Python dependency management
+
+Testing & Code Quality
+======
+* Pytest
+* Ruff - Code formatter and linter for Python
+* MyPy - Type checker
+
+Deployment
+======
+* Docker
+* Google Cloud Platform
+* Flask
+* FastAPI
+
+Terminal
+======
 * Bash
-* C++
-* Deep Learning in Pytorch and Tensorflow
-* Google Cloud Platform:
-  * Compute instances
-  * AI Platform
-  * Storage buckets
+* Zsh
+* Tmux/Screen
 
 Languages
 ======
