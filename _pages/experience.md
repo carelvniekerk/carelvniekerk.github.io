@@ -21,6 +21,7 @@ Work experience
 * Dialogue Systems and Machine Learning Group
 * Lamarr Fellow Network Ramp Up Project
 * Lecturing: Implementing Transformer Models Practical Series
+* Supervision of Bachlor and Master students
 
 <a href="https://www.hhu.de/">
   <img src="/images/hhu.png" alt="alt text" height="40" width="75">
@@ -51,6 +52,7 @@ Work experience
 Professional Activities
 ======
 
+* Supervision of BSc and MSc students in the Dialogue Systems and Machine Learning group, 2023 - Present
 * Member of the ConvLab 3 toolkit development team, 2020 - Present
 * Organizer of the Dialogue Systems and Machine Learning Seminar Series, 2023 - Present
 * Reviewer for ACL, EMNLP, NeurIPS, ICLR, AAAI, IJCAI, SIGDIAL, and others, 2020 - Present
