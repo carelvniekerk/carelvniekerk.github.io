@@ -15,7 +15,17 @@ Programming
 
 * Python(Proficient)
 * JavaScript(Intermediate)
+* SQL(Intermediate)
+* PUG(Basic)
+* MongoDB(Basic)
 * C++(Basic)
+* Rust(Basic)
+
+Platforms
+======
+* Google Cloud Platform
+* Azure
+* On-Premise High-Performance Computing (HPC) Clusters
   
 Machine Learning
 ======
@@ -23,6 +33,12 @@ Machine Learning
 * Huggingface (Transformers, Datasets, TRL)
 * Parallel and Mixed Precision Training using CUDA
 * Accelerate
+* LangChain
+
+Tools
+======
+* OpenAI API
+* VertexAI
 
 Configuration & Management
 ======
@@ -45,8 +61,8 @@ Deployment
 
 Terminal
 ======
-* Bash
 * Zsh
+* Bash
 * Tmux/Screen
 
 Languages
@@ -54,4 +70,4 @@ Languages
 
 * English (Native)
 * Afrikaans (Native)
-* German (Intermediate)
+* German (Fluent)

@@ -11,6 +11,8 @@ author_profile: true
 Upcoming Events
 ======
 
+* ACL 2025, 27 July - 1 August 2025, Vienna, Austria
+
 Past Events
 ======
 
