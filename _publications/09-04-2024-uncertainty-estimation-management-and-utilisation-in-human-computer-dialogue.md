@@ -1,7 +1,7 @@
 ---
 title: "Uncertainty Estimation, Management, and Utilisation in Human-Computer Dialogue"
 collection: publications
-category: books
+category: theses
 permalink: /publication/2024-uncertainty-estimation-management-and-utilisation-in-human-computer-dialogue
 excerpt: 'In the rapidly evolving field of human-computer interaction, there is an increasing demand for effective and reliable dialogue systems, computer programs engineered to converse with humans. However, these systems often fall short in unpredictable or ambiguous scenarios, a problem attributed to the absence of a comprehensive model for handling uncertainty. This limitation impacts the ability to communicate effectively with human users, thereby diminishing user experience and trust. Uncertainty is a fundamental aspect of human cognition and everyday decision-making processes, serving as both an obstacle and an opportunity in our constant pursuit of knowledge and effective communication. Despite its important role, uncertainty is underrepresented in the development of machine learning models for dialogue systems.
 
