@@ -9,7 +9,7 @@ To address these gaps, this thesis focuses on integrating and leveraging uncerta
 
 Incorporating insights from psychological theories on human uncertainty management, this thesis emphasises the importance of integrating such insights into machine learning models for dialogue. Our methods will advance the field by introducing more reliable, robust, and effective dialogue systems that better handle uncertainties, ultimately enhancing the quality of human-computer interaction. Furthermore, this work challenges current limitations associated with data deficiencies, offering a data-driven approach for improving dataset quality, thereby paving the way for future research in machine learning and human-computer interaction.'
 authors: 'Carel van Niekerk'
-date: 09-04-2024
+date: 2024-04-09
 venue: 'Heinrich Heine Universität, Düsseldorf'
 paperurl: 'https://d-nb.info/132475351X/34'
 ---
