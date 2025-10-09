@@ -10,7 +10,7 @@
             {% if author.avatar contains "://" %}
             <img src="{{ author.avatar }}" alt="{{ author.name }}" fetchpriority="high" />
             {% else %}
-            <img src="{{ author.avatar | prepend: " /images/" | prepend: base_path }}" class="author__avatar"
+            <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar"
                   alt="{{ author.name }}" fetchpriority="high" />
             {% endif %}
       </div>
@@ -106,7 +106,7 @@
                   {% endif %}
                   {% if author.huggingface %}
                   <li><a href="https://huggingface.co/{{ author.huggingface }}"><i
-                                    class="fa-regular fa-face-smiling-hands icon-pad-right"
+                                    class="fab fa-fw fa-regular fa-huggingface icon-pad-right"
                                     aria-hidden="true"></i>HuggingFace</a></li>
                   {% endif %}
                   {% if author.kaggle %}
